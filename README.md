@@ -443,9 +443,7 @@ already implemented.
 
 ## Author
 Mohamed Adel Yousef Wetwet - STEM Student S'28
-Developed as an AI-powered educational project focused on helping
-STEM students connect scientific knowledge with engineering practice.
-
+I developed it, an AI-powered educational project that helps STEM students connect scientific knowledge with engineering practice.
 ## License
 
 A license has not yet been selected.
